@@ -1,0 +1,14 @@
+D:\solutions visual studio\List\List\bin\Debug\netcoreapp3.1\List.exe
+D:\solutions visual studio\List\List\bin\Debug\netcoreapp3.1\List.deps.json
+D:\solutions visual studio\List\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.json
+D:\solutions visual studio\List\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.dev.json
+D:\solutions visual studio\List\List\bin\Debug\netcoreapp3.1\List.dll
+D:\solutions visual studio\List\List\bin\Debug\netcoreapp3.1\List.pdb
+D:\solutions visual studio\List\List\obj\Debug\netcoreapp3.1\List.csproj.AssemblyReference.cache
+D:\solutions visual studio\List\List\obj\Debug\netcoreapp3.1\List.GeneratedMSBuildEditorConfig.editorconfig
+D:\solutions visual studio\List\List\obj\Debug\netcoreapp3.1\List.AssemblyInfoInputs.cache
+D:\solutions visual studio\List\List\obj\Debug\netcoreapp3.1\List.AssemblyInfo.cs
+D:\solutions visual studio\List\List\obj\Debug\netcoreapp3.1\List.csproj.CoreCompileInputs.cache
+D:\solutions visual studio\List\List\obj\Debug\netcoreapp3.1\List.dll
+D:\solutions visual studio\List\List\obj\Debug\netcoreapp3.1\List.pdb
+D:\solutions visual studio\List\List\obj\Debug\netcoreapp3.1\List.genruntimeconfig.cache
